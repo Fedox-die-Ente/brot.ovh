@@ -17,7 +17,7 @@ export default function App() {
           <BreadTitle />
           
           <div className="space-y-12">
-            <BreadGame />
+            {/*<BreadGame />*/}
             <BreadCarousel />
 
             <div className="mt-12 bg-white/80 backdrop-blur p-8 rounded-3xl shadow-2xl 
